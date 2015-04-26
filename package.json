@@ -1,0 +1,22 @@
+{
+  "name": "Node-Passport-Simple",
+  "version": "1.0.0",
+  "description": "Sample Passport authentication work",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdbennet2001/Node-Passport-Simple.git"
+  },
+  "keywords": [
+    "Passport"
+  ],
+  "author": "Jon Bennett",
+  "license": "-",
+  "bugs": {
+    "url": "https://github.com/jdbennet2001/Node-Passport-Simple/issues"
+  },
+  "homepage": "https://github.com/jdbennet2001/Node-Passport-Simple"
+}
